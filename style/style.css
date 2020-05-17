@@ -1,0 +1,7 @@
+body{
+    background-color: chartreuse;
+    text-align: center;
+}
+#send_wordc, #word_cod{
+    border-radius: 10px;
+}
